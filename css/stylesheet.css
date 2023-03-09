@@ -1,0 +1,40 @@
+div{
+   
+    position: relative;
+    top: 120px; ;
+    margin: auto;
+    border-radius: 7%;
+    background-color: white;
+    border-radius: 6%;
+    width: 330px;
+    height: 500px;
+}
+img{
+    position: relative;
+    height: 298px;
+    border-radius: 7%;
+    width: 298px;
+    left: 15px;
+    top: 15px;
+}
+body{
+    background-color:#CBE4DE;
+}
+h2{
+    position: relative;
+    text-align:center;
+    top: 20px;
+    font-family: 'Outfit', sans-serif;
+
+  
+
+}
+p{
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    color:  rgb(134, 134, 134);
+    top: 18px; ;
+    position: relative;
+   
+}
